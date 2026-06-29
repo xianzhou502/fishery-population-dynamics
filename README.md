@@ -194,7 +194,7 @@ The project argues that maximum economic yield may occur at a lower catch level 
 
 | File | Description |
 |---|---|
-| `Fishery_Population_Dynamics_Modelling_Report.docx` | Written mathematical modelling report discussing logistic growth, harvesting equilibrium, overfishing risk, sustainability, and profitability |
+| `Fishery_Population_Dynamics_Modelling_Report.pdf` | Written mathematical modelling report discussing logistic growth, harvesting equilibrium, overfishing risk, sustainability, and profitability |
 
 
 ## Tools and Techniques
